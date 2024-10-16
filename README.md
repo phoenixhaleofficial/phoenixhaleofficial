@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a personal webpage using GitHub Pages.<br>I'm currently learning Rust.
+I'm currently working on a personal webpage using GitHub Pages.
 
 
 ## 🌐 Socials:
