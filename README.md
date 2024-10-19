@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋 I'm Phoenix, a hobbyist programmer, and founder of the upcoming Alternative Rock band Monochrome Resonance, formed in 2024.
 <br>
-I'm currently contributing to [Linutil](https://github.com/ChrisTitusTech/linutil) by [Chris Titus Tech](https://github.com/ChrisTitusTech).
+I'm currently contributing to [Linutil by Chris Titus](https://github.com/ChrisTitusTech/linutil).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phoenixhaleofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PhoenixHaleOfficial) 
