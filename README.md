@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Phoenix, a hobbyist programmer, and founder of the upcoming Alternative Rock band Monochrome Resonance, formed in 2024.
+ Hello, my name is Marc Werthammer, also known online as Phoenix Mark Hale. I am a 16-year-old hobbyist web developer and the founder of the upcoming alternative rock band Monochrome Resonance.
 <br>
 I'm currently contributing to [Linutil by Chris Titus](https://github.com/ChrisTitusTech/linutil).
 
