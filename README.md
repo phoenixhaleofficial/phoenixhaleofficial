@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hello, my name is Marc Werthammer, also known online as Phoenix Mark Hale. I am a 16-year-old hobbyist web developer and the founder of the upcoming alternative rock band Monochrome Resonance.
 <br>
-I'm currently contributing to [Linutil by Chris Titus](https://github.com/ChrisTitusTech/linutil).
+I'm a contributor to [Linutil by Chris Titus](https://github.com/ChrisTitusTech/linutil).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phoenixhaleofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PhoenixHaleOfficial) 
