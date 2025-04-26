@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hello, my name is Marc Werthammer, also known online as Phoenix Mark Hale. I am a 16-year-old hobbyist web developer and the founder of the upcoming alternative rock band Monochrome Resonance.
+ Hello, my name is Marc Werthammer, also known online as Phoenix Mark Hale. I'm a hobbyist web developer and founder of the alternative rock band Monochrome Resonance.
 <br>
 I'm a contributor to [Linutil by Chris Titus](https://github.com/ChrisTitusTech/linutil).
 
